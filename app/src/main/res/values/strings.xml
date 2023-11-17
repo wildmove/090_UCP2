@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">090_UCP2</string>
+    <string name="teh_lemon">Lemon Tea</string>
+    <string name="teh_leci">Lychee Tea</string>
+    <string name="teh_sereh">Sereh Tea</string>
+    <string name="teh_original">Original Tea</string>
+    <string name="next">Next</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="konsentrasi">Konsentrasi</string>
+    <string name="judulSkripsi">Judul Skripsi</string>
+    <string name="dosbing1">Dosen Pembimbing 1</string>
+    <string name="dosbing2">Dosen Pembimbing 2</string>
+    <string name="alamat">Alamat</string>
+    <string name="tlp">Telpon</string>
+    <string name="kuantitas">Kuantitas</string>
+    <string name="rasa">Rasa</string>
+    <string name="subtotal">Subtotal: Rp %s</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="back_btn">Back</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="joko">Dwi Joko P</string>
+    <string name="april">Aprilia Kurnianti</string>
 </resources>
